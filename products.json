@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nama": "Sepatu Adidas Ultraboost Putih Original",
+    "harga": 1250000,
+    "harga_lama": 2500000,
+    "gambar": "images/1.jpg",
+    "rating": 4.8,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 2,
+    "nama": "Nike Air Max 270 React Premium",
+    "harga": 1899000,
+    "harga_lama": 2499000,
+    "gambar": "images/2.jpg",
+    "rating": 4.7,
+    "lokasi": "Bandung"
+  },
+  {
+    "id": 3,
+    "nama": "Vans Old Skool Classic Black White",
+    "harga": 599000,
+    "harga_lama": 799000,
+    "gambar": "images/3.jpg",
+    "rating": 4.6,
+    "lokasi": "Surabaya"
+  },
+  {
+    "id": 4,
+    "nama": "Converse Chuck Taylor All Star Tinggi",
+    "harga": 749000,
+    "harga_lama": 899000,
+    "gambar": "images/4.jpg",
+    "rating": 4.5,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 5,
+    "nama": "New Balance 574 Sport Casual",
+    "harga": 899000,
+    "harga_lama": 1299000,
+    "gambar": "images/5.jpg",
+    "rating": 4.4,
+    "lokasi": "Yogyakarta"
+  },
+  {
+    "id": 6,
+    "nama": "Puma RS-X Bold Casual Sneakers",
+    "harga": 1099000,
+    "harga_lama": 1499000,
+    "gambar": "images/6.jpg",
+    "rating": 4.3,
+    "lokasi": "Semarang"
+  },
+  {
+    "id": 7,
+    "nama": "Reebok Classic Leather White",
+    "harga": 699000,
+    "harga_lama": 999000,
+    "gambar": "images/7.jpg",
+    "rating": 4.2,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 8,
+    "nama": "Asics Gel Kayano 27 Running Shoes",
+    "harga": 1599000,
+    "harga_lama": 2199000,
+    "gambar": "images/8.jpg",
+    "rating": 4.9,
+    "lokasi": "Medan"
+  },
+  {
+    "id": 9,
+    "nama": "Fila Disruptor 2 Premium Chunky",
+    "harga": 849000,
+    "harga_lama": 1199000,
+    "gambar": "images/9.jpg",
+    "rating": 4.1,
+    "lokasi": "Bali"
+  },
+  {
+    "id": 10,
+    "nama": "Skechers D'Lites Memory Foam",
+    "harga": 599000,
+    "harga_lama": 899000,
+    "gambar": "images/10.jpg",
+    "rating": 4.6,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 11,
+    "nama": "Adidas NMD R1 Primeknit",
+    "harga": 1799000,
+    "harga_lama": 2299000,
+    "gambar": "images/11.jpg",
+    "rating": 4.7,
+    "lokasi": "Bandung"
+  },
+  {
+    "id": 12,
+    "nama": "Nike Air Force 1 Low White",
+    "harga": 1499000,
+    "harga_lama": 1799000,
+    "gambar": "images/12.jpg",
+    "rating": 4.8,
+    "lokasi": "Surabaya"
+  },
+  {
+    "id": 13,
+    "nama": "Vans SK8-Hi Premium Leather",
+    "harga": 899000,
+    "harga_lama": 1199000,
+    "gambar": "images/13.jpg",
+    "rating": 4.4,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 14,
+    "nama": "Timberland 6 Inch Premium Boots",
+    "harga": 2199000,
+    "harga_lama": 2999000,
+    "gambar": "images/14.jpg",
+    "rating": 4.9,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 15,
+    "nama": "Dr. Martens 1460 Smooth Leather",
+    "harga": 1899000,
+    "harga_lama": 2499000,
+    "gambar": "images/15.jpg",
+    "rating": 4.7,
+    "lokasi": "Bandung"
+  },
+  {
+    "id": 16,
+    "nama": "Onitsuka Tiger Mexico 66",
+    "harga": 1299000,
+    "harga_lama": 1599000,
+    "gambar": "images/16.jpg",
+    "rating": 4.5,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 17,
+    "nama": "Balenciaga Triple S Clear Sole",
+    "harga": 12999000,
+    "harga_lama": 15999000,
+    "gambar": "images/17.jpg",
+    "rating": 4.2,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 18,
+    "nama": "Yeezy Boost 350 V2 Zebra",
+    "harga": 4999000,
+    "harga_lama": 6999000,
+    "gambar": "images/18.jpg",
+    "rating": 4.6,
+    "lokasi": "Surabaya"
+  },
+  {
+    "id": 19,
+    "nama": "Jordan 1 Retro High OG Chicago",
+    "harga": 5999000,
+    "harga_lama": 7999000,
+    "gambar": "images/19.jpg",
+    "rating": 4.9,
+    "lokasi": "Jakarta"
+  },
+  {
+    "id": 20,
+    "nama": "Gucci Ace Embroidered Sneaker",
+    "harga": 8999000,
+    "harga_lama": 10999000,
+    "gambar": "images/20.jpg",
+    "rating": 4.8,
+    "lokasi": "Jakarta"
+  }
+]
