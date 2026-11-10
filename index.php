@@ -3,14 +3,14 @@
 $productsJson = file_get_contents('products.json');
 $products = json_decode($productsJson, true);
 
-// Generate placeholder images
+
 $placeholderColors = ['FF6B6B', '4ECDC4', '45B7D1', '96CEB4', 'FFEAA7', 'DDA0DD', '98D8C8', 'F7DC6F', 'BB8FCE', '85C1E9'];
 $imageIndex = 0;
 
-// Filter logic
+
 $filteredProducts = $products;
 
-// Search filter
+
 if (isset($_GET['search']) && !empty($_GET['search'])) {
     $search = strtolower($_GET['search']);
     $filteredProducts = array_filter($filteredProducts, function($product) use ($search) {
